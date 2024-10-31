@@ -1,0 +1,8 @@
+.woocommerce_page_rewardstream input.rs-text {
+    width: 400px;
+}
+
+.woocommerce_page_rewardstream textarea.rs-textarea {
+    width: 400px;
+    height: 300px;
+}
